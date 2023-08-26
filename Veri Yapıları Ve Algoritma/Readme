@@ -1,0 +1,6 @@
+# Veri Yapıları ve Algoritmalar
+> [Başlangıç Seviye Veri Bilimi Patikası](https://academy.patika.dev/tr/paths/baslangic-seviye-veri-bilimi-patikasi) kapsamında verilen [Veri Yapıları ve Algoritmalar](https://academy.patika.dev/tr/courses/veri-yapilari-ve-algoritmalar) eğitimine ait tamamlama projeleridir.
+
+1. [Insertion Sort](https://github.com/tariksafakutuk/Veri-Bilimi-Patikasi/blob/main/Başlangıç%20Seviye%20Veri%20Bilimi%20Patikası/Veri%20Yapıları%20ve%20Algoritmalar/01-Insertion%20Sort.md)
+2. [Merge Sort](https://github.com/tariksafakutuk/Veri-Bilimi-Patikasi/blob/main/Başlangıç%20Seviye%20Veri%20Bilimi%20Patikası/Veri%20Yapıları%20ve%20Algoritmalar/02-Merge%20Sort.md)
+3. [Binary Search Tree](https://github.com/tariksafakutuk/Veri-Bilimi-Patikasi/blob/main/Başlangıç%20Seviye%20Veri%20Bilimi%20Patikası/Veri%20Yapıları%20ve%20Algoritmalar/03-Binary%20Search%20Tree.md)
